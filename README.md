@@ -2,8 +2,8 @@
 
 This is a e-commerce Product Admin panel with CRUD using HTML, CSS and PHP
 
-# Language
+## Language
 
-- HTML
-- CSS
-- PHP
+- **HTML**
+- **CSS**
+- **PHP**
